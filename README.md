@@ -20,7 +20,7 @@ SSAFY와 KB IT's Your Life에서 Spring 기반 백엔드와 데이터 파이프�
 | 1 | [**YORR**](#yorr--휴대폰이-컨트롤러가-되는-실시간-웹-파티게임) | 실서비스 개발·운영 | AI · Backend | 발표 1위, 최고 동시 접속 80명 |
 | 2 | [**가게채움**](#가게채움--소상공인-대출정책-지원-통합-플랫폼) | 금융 IT 백엔드 | Backend API | KB 해커톤 장려상, PR 23건 머지 |
 | 3 | [**WikiPulse**](#wikipulse--위키백과-급증-데이터-기반-이슈-탐지) | 데이터 파이프라인 | Data Pipeline | 거대 클러스터 59 → 0 |
-| 4 | [**K-Bulkup**](#k-bulkup--금융-교육-웹-플랫폼) | 금융 교육 웹 서비스 | Frontend 중심 Full-stack | 팀 내 Frontend 커밋 최다, 트레이닝 등록 기능 |
+| 4 | [**K-Bulkup**](#k-bulkup--금융-교육-웹-플랫폼) | 금융 교육 웹 서비스 | Frontend 중심 Full-stack | 트레이닝 등록 화면·API 개발 |
 
 <br>
 
