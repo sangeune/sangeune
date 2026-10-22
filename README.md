@@ -17,9 +17,9 @@ SSAFY 15기 공통 프로젝트 · 6인 팀 · AI · Backend 담당 · **발표 
 
 <table>
   <tr>
-    <td align="center" width="33%"><h3>80명</h3><sub>최고 동시 접속</sub></td>
-    <td align="center" width="33%"><h3>635건</h3><sub>누적 게임 참여</sub></td>
-    <td align="center" width="33%"><h3>487판</h3><sub>플레이한 게임</sub></td>
+    <td align="center"><h3>80명</h3><sub>최고&nbsp;동시&nbsp;접속</sub></td>
+    <td align="center"><h3>635건</h3><sub>누적&nbsp;게임&nbsp;참여</sub></td>
+    <td align="center"><h3>487판</h3><sub>플레이한&nbsp;게임</sub></td>
   </tr>
 </table>
 
