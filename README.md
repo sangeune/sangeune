@@ -1,9 +1,6 @@
 # Sangeun You
 
-## About Me
-
-산업정보시스템공학을 전공하며 데이터 분석과 최적화를 공부했고, 이후 Spring 백엔드와 데이터 파이프라인 개발을 해 왔습니다.<br>
-팀 프로젝트에서 실제 사용자에게 서비스를 공개하고, API와 데이터 처리 기능을 맡아 개발했습니다.
+산업정보시스템공학 전공
 
 ## Tech Stack
 
@@ -13,36 +10,62 @@
 
 ## Projects
 
-**YORR** · SSAFY 공통 프로젝트 발표 1위<br>
-휴대폰을 게임 컨트롤러로 쓰는 실시간 웹 파티게임<br>
-역할: AI · Backend — 요트 AI 봇, 게임 규칙·점수 API, 탁구 게임 이식<br>
-성과: 실서비스 최고 동시 접속 80명, 누적 게임 참여 635건<br>
-[GitHub](https://github.com/team-yorr/yorr) · [Demo](https://yorr.site) · [상세](projects/yorr.md)
+### 01. YORR
 
-**가게채움** · KB IT's Your Life 해커톤 장려상<br>
-소상공인을 위한 대출·정책 지원 통합 플랫폼<br>
-역할: Backend — 정책·대출 추천, 신청 서류, 현금 흐름 API 개발<br>
-[GitHub](https://github.com/Gagechaeum/backend) · [상세](projects/gagaechaeum.md)
+<img src="assets/yorr.jpg" width="600" alt="YORR 요트 다이스, 탁구, 석양이 진다 플레이 화면">
 
-**WikiPulse**<br>
+휴대폰을 컨트롤러로 활용하는 실시간 웹 파티게임 · **SSAFY 공통 프로젝트 발표 1위**<br>
+담당: AI 봇, 게임 규칙 API, 탁구 게임 개발
+
+[프로젝트 전체 보기 →](https://github.com/team-yorr/yorr)
+
+---
+
+### 02. 가게채움
+
+<img src="assets/gagaechaeum.jpg" width="600" alt="가게채움 리포트 화면: 2주 일정과 월별 현금 흐름">
+
+소상공인을 위한 대출·정책 지원 통합 플랫폼 · **KB IT's Your Life 해커톤 장려상**<br>
+담당: 정책·대출 추천, 신청 서류, 현금 흐름 리포트 백엔드 API
+
+[프로젝트 전체 보기 →](https://github.com/Gagechaeum)
+
+---
+
+### 03. WikiPulse
+
+<img src="assets/wikipulse.jpg" width="600" alt="WikiPulse 펄스맵: 급증 문서를 이슈별로 묶은 화면">
+
 위키백과 편집·조회수 급증으로 이슈를 탐지하고 관련 미국 상장 종목을 보여주는 서비스<br>
-역할: Data Pipeline — 과거 데이터 적재·재생, 판정 결과 저장, 클러스터링 운영 반영<br>
-[GitHub](https://github.com/team-926/WikiPulse) · [상세](projects/wikipulse.md)
+담당: 데이터 파이프라인 (과거 데이터 적재, 판정 결과 저장, 이슈 클러스터링)
 
-**K-Bulkup**<br>
+[프로젝트 전체 보기 →](https://github.com/team-926/WikiPulse)
+
+---
+
+### 04. K-Bulkup
+
+<img src="assets/k-bulkup.jpg" width="600" alt="K-Bulkup 서비스 소개 이미지와 트레이닝 목록 화면">
+
 금융 트레이너와 회원을 연결하는 금융 교육 웹 플랫폼<br>
-역할: Frontend 중심 Full-stack — 트레이닝 등록 화면·API, 리뷰·검색 API 개선<br>
-[GitHub](https://github.com/K-Bulkup/Frontend) · [상세](projects/k-bulkup.md)
+담당: 트레이닝 등록 화면·API, 리뷰·검색 API, UI 개선
 
-**온마을** · 전북 공공데이터 활용 창업경진대회 우수상<br>
-식품 사막 지역을 위한 이동식 식료품 판매 서비스 기획 (공개 소스코드 없음)<br>
-역할: 데이터 분석 — 2SFCA 접근성 분석, MCLP 입지 선정, 운행 경로 설계<br>
-성과: 분석 모델 기준 식료품 접근성 31.89% 개선 (실제 운영 결과 아님)
+[프로젝트 전체 보기 →](https://github.com/K-Bulkup)
+
+---
+
+### 05. 온마을
+
+<img src="assets/onmaeul.jpg" width="600" alt="온마을 MCLP 결과: 이동식 상점 25곳 추가 전후 식료품점 접근성 지도">
+
+식품 사막 지역을 위한 이동식 식료품 판매 서비스 기획 · **전북 공공데이터 활용 창업경진대회 우수상**<br>
+담당: 공공데이터 접근성 분석(2SFCA), 입지 선정(MCLP), 이동 경로 설계<br>
+분석 모델 기준 식료품 접근성 31.89% 개선 (실제 운영 결과 아님 · 공개 소스코드 없음)
 
 ## Education & Training
 
-- **SSAFY 15기** · 2026.01 ~ 현재 · 1학기 925시간 이수 (교육 중)
-- **KB IT's Your Life 6기** · 2025.03 ~ 2025.08 · 960시간 수료
+- **SSAFY 15기** — 2026.01 ~ 현재, 1학기 925시간 이수 (교육 중)
+- **KB IT's Your Life 6기** — 2025.03 ~ 2025.08, 960시간 수료
 
 ## Certifications
 
@@ -51,3 +74,5 @@
 ## Contact
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://yseee.tistory.com/)
+
+<sub>프로젝트 이미지는 각 팀의 공개 저장소와 발표 자료에서 가져왔습니다.</sub>
