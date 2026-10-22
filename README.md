@@ -60,7 +60,7 @@
 
 식품 사막 지역을 위한 이동식 식료품 판매 서비스 기획 · **전북 공공데이터 활용 창업경진대회 우수상**<br>
 담당: 공공데이터 접근성 분석(2SFCA), 입지 선정(MCLP), 이동 경로 설계<br>
-분석 모델 기준 식료품 접근성 31.89% 개선 (실제 운영 결과 아님 · 공개 소스코드 없음)
+분석 모델 기준 식료품 접근성 31.89% 개선
 
 ## Education & Training
 
@@ -74,5 +74,3 @@
 ## Contact
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://yseee.tistory.com/)
-
-<sub>프로젝트 이미지는 각 팀의 공개 저장소와 발표 자료에서 가져왔습니다.</sub>
